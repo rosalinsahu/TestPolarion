@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<work-item>
+    <field id="author">jaikumardaniel</field>
+    <field id="created">2016-08-29 08:33:39.072 -0400</field>
+    <field id="description" text-type="text/html"><![CDATA[Use captions for your documentation.<br/>
+ <br/>
+ <img src="workitemimg:1-screenshot-20160829-083339.png"/><br/>
+ <br/>
+ 
+<ul>
+  <li>Cations stick to the image or table used.</li>
+  <li>Can be added to a table of content.</li>
+  <li>Working for work items and  documents.</li>
+  <li>Numbered according to number of appearance.<br/>
+    <br/>
+    <img src="workitemimg:2-screenshot-20160829-083339.png"/></li>
+</ul>]]></field>
+    <field id="previousStatus">open</field>
+    <field id="printNotes" text-type="text/html" type="text/html">Thes Notes will be printed as part of the training materials</field>
+    <field id="priority">25.0</field>
+    <field id="severity">normal</field>
+    <field id="status">open</field>
+    <field id="title">Use captions for your documentation</field>
+    <field id="type">slide</field>
+</work-item>

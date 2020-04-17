@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<work-item>
+    <field id="author">jaikumardaniel</field>
+    <field id="created">2016-08-29 07:53:14.365 -0400</field>
+    <field id="description" text-type="text/html"><![CDATA[Parameterized Testing.<br/>
+ <br/>
+ <img src="workitemimg:1-screenshot-20160829-075314.png"/><br/>
+ <br/>
+For tests , that need to be executed several times, use the insert parameter feature.]]></field>
+    <field id="previousStatus">open</field>
+    <field id="printNotes" text-type="text/html" type="text/html">Thes Notes will be printed as part of the training materials</field>
+    <field id="priority">25.0</field>
+    <field id="severity">normal</field>
+    <field id="status">open</field>
+    <field id="title">Parameterized Testing</field>
+    <field id="type">slide</field>
+</work-item>

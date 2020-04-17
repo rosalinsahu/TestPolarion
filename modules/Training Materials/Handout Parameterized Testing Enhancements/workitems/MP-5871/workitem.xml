@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<work-item>
+    <field id="author">jaikumardaniel</field>
+    <field id="created">2016-08-29 07:53:14.463 -0400</field>
+    <field id="description" text-type="text/html"><![CDATA[Overview of parameters.<br/>
+ <br/>
+ <img src="workitemimg:1-screenshot-20160829-075314.png"/><br/>
+ <br/>
+ 
+<ul>
+  <li>After executing the test used parameters are traceable.</li>
+  <li>Can be used in different test runs.</li>
+  <li>Can be reproduced.</li>
+  <li>Can be reported.</li>
+</ul>]]></field>
+    <field id="previousStatus">open</field>
+    <field id="printNotes" text-type="text/html" type="text/html">Thes Notes will be printed as part of the training materials</field>
+    <field id="priority">25.0</field>
+    <field id="severity">normal</field>
+    <field id="status">open</field>
+    <field id="title">Overview of parameters</field>
+    <field id="type">slide</field>
+</work-item>

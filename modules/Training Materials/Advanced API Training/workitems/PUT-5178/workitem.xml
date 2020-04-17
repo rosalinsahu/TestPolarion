@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<work-item>
+    <field id="author">admin</field>
+    <field id="created">2013-11-06 10:39:06.457 -0500</field>
+    <field id="description" text-type="text/html"><![CDATA[We will use a combination of a loop and conditions to display all of our family members and we want to know how much people are part of our family.<br/>
+<ul>
+  <li>Create a variable $family which should be an array of all family members (parents, brothers, sisters, you)</li>
+  <li>Create a loop which iterates over all family members</li>
+  <li>Display the name of the family member in each iteration</li>
+  <ul>
+    <li>If it isn´t the last family member a comma should seperate the names</li>
+  </ul>
+  <li>behind the list of names the size of the family should be displayed.</li>
+</ul>
+<span style="font-weight: bold;">
+  <table id="polarion_wiki macro name=table" class="polarion-Document-table" style="width: 80%;margin-left: auto;margin-right: auto;border: 1px solid #CCCCCC;empty-cells: show;border-collapse: collapse;">
+    <tbody>
+      <tr>
+        <th style="font-weight: bold;background-color: #F0F0F0;text-align: left;vertical-align: top;height: 12px;border: 1px solid #CCCCCC;padding: 5px;"><span style="font-size: 10pt;line-height: 1.5;">Hint: You can use $velocityCount inside of a foreach loop as count variable (starts with 1 as value) and $family.size() to get the size of the array.</span></th>
+      </tr>
+    </tbody>
+  </table>
+</span><span style="font-weight: normal;"><br/>
+  <br/>
+  <span style="font-weight: bold;">Example Image:<br/>
+    <img src="attachment:foreach.jpg"/></span></span><br/>]]></field>
+    <field id="previousStatus">open</field>
+    <field id="priority">25.0</field>
+    <field id="severity">normal</field>
+    <field id="status">open</field>
+    <field id="type">exercise</field>
+</work-item>

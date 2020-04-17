@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<module-comment>
+    <field id="author">dresbach</field>
+    <field id="created">2016-06-09 05:30:12.407 -0400</field>
+    <field id="text" text-type="text/plain">Bad example : result seems to be unstable, and API does not give no hint about what this method can be used for</field>
+</module-comment>

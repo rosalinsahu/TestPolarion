@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<work-item>
+    <field id="author">jaikumardaniel</field>
+    <field id="created">2016-08-29 08:03:12.632 -0400</field>
+    <field id="description" text-type="text/html"><![CDATA[Test Run Workflow Automation.<br/>
+ <br/>
+ <img src="workitemimg:1-screenshot-20160829-080312.png"/><br/>
+ <br/>
+ 
+<ul>
+  <li>Control and secure live cycle of testing.</li>
+  <li>Model the workflow of testing.</li>
+  <li>Automation of status change condition checks.</li>
+  <li><span style="font-size: 10pt;line-height: 1.5;">Automation of status change and workflow according to workflow rules.</span></li>
+</ul>]]></field>
+    <field id="previousStatus">open</field>
+    <field id="printNotes" text-type="text/html" type="text/html">Thes Notes will be printed as part of the training materials</field>
+    <field id="priority">25.0</field>
+    <field id="severity">normal</field>
+    <field id="status">open</field>
+    <field id="title">Test Run Workflow Automation</field>
+    <field id="type">slide</field>
+</work-item>

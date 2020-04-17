@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<work-item>
+    <field id="author">jaikumardaniel</field>
+    <field id="created">2016-08-29 08:33:39.133 -0400</field>
+    <field id="description" text-type="text/html"><![CDATA[Table of caption in exported document.<br/>
+ <br/>
+ <img src="workitemimg:1-screenshot-20160829-083339.png"/><br/>
+ <br/>
+ 
+<ul>
+  <li>When exporting your results as a pdf or round trip document a table of figures or tables is inserted into your export.</li>
+  <li>Imported captions are used and stored in tables.</li>
+</ul>]]></field>
+    <field id="previousStatus">open</field>
+    <field id="printNotes" text-type="text/html" type="text/html">Thes Notes will be printed as part of the training materials</field>
+    <field id="priority">25.0</field>
+    <field id="severity">normal</field>
+    <field id="status">open</field>
+    <field id="title">Table of caption in exported document</field>
+    <field id="type">slide</field>
+</work-item>

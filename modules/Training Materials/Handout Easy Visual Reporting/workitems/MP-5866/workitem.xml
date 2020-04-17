@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<work-item>
+    <field id="author">jaikumardaniel</field>
+    <field id="created">2016-08-29 07:46:10.942 -0400</field>
+    <field id="description" text-type="text/html"><![CDATA[Easy development with report wizards.<br/>
+ <br/>
+ <img src="workitemimg:1-screenshot-20160829-074610.png"/><br/>
+ <br/>
+ 
+<ul>
+  <li>Predefined wizards for fast creation.</li>
+  <li>Extendable for specific needs with parameters.</li>
+  <li>Velocity programming if necessary.</li>
+</ul>]]></field>
+    <field id="previousStatus">open</field>
+    <field id="printNotes" text-type="text/html" type="text/html">Thes Notes will be printed as part of the training materials</field>
+    <field id="priority">25.0</field>
+    <field id="severity">normal</field>
+    <field id="status">open</field>
+    <field id="title">Easy development with report wizards</field>
+    <field id="type">slide</field>
+</work-item>

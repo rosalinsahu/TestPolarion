@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<work-item>
+    <field id="author">stroebelet</field>
+    <field id="created">2012-05-30 10:15:44.534 -0400</field>
+    <field id="description" text-type="text/html"><![CDATA[Lets assume we have to create a detailed analysis of the change request. 
+<ul>
+  <li>Identify all affected artifacts and link them to the change request<br/>
+    <br/>
+    
+    <table id="polarion_wiki macro name=table;params=width=600px" class="polarion-Document-table" style="width: 600px;margin-left: auto;margin-right: auto;border: 1px solid #CCCCCC;empty-cells: show;border-collapse: collapse;">
+      <tbody>
+        <tr>
+          <th style="font-weight: bold;font-size: 9pt;background-color: #F0F0F0;line-height: 1.5;text-align: left;vertical-align: top;height: 12px;border: 1px solid #CCCCCC;padding: 5px;">Hint: Search for requirement &quot;I as a user want to perform simple searches&quot; and link it to your change request using link role &quot;relates to&quot;. </th>
+        </tr>
+      </tbody>
+    </table>
+    <br/>
+    <br/>
+    <img src="attachment:linkwi.jpg" style="width: 724px;height: 268px;"/><br/>
+    <br/>
+  </li>
+  <li>Search for all artifacts which are backlinked with your requirement &quot;I as a user want to perform simple searches&quot; to get an understanding what artefacts need to be modified or added.<br/>
+  </li>
+  <li>Specify in the description of the change what needs to be changed in the affected areas</li>
+</ul>]]></field>
+    <field id="linkedWorkItems">
+        <list>
+            <struct>
+                <item id="revision">37029</item>
+                <item id="role">branched_from</item>
+                <item id="workItem">MP-813</item>
+            </struct>
+        </list>
+    </field>
+    <field id="previousStatus">open</field>
+    <field id="priority">25.0</field>
+    <field id="severity">normal</field>
+    <field id="status">open</field>
+    <field id="title">Analyse the impact of a change request</field>
+    <field id="type">exercise</field>
+</work-item>

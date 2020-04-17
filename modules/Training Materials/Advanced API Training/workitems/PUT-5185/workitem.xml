@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<work-item>
+    <field id="author">admin</field>
+    <field id="created">2013-11-07 09:29:31.698 -0500</field>
+    <field id="description" text-type="text/html"><![CDATA[We want to create a report which displays all requirements and their linked test cases but lets start with a table of our requirements.<br/>
+<ul>
+  <li>Create new wiki page &quot;[YOUR NAME] Traceability report&quot;</li>
+  <ul>
+    <li>Use $trackerService to query all requirements in current project sorted by &quot;id&quot; and save result in $requirements</li>
+    <li>Create HTML table</li>
+    <ul>
+      <li>Use a foreach loop to get each single requirement</li>
+      <li>Use {workitem} macro to display each requirement inside of a table cell [remember you need the id (string) of a work item not the object itself inside this macro]</li>
+      <ul>
+        <li>We want to display only the title of a workitem.</li>
+        <li>The workitem shouldn´t be expanded</li>
+      </ul>
+    </ul>
+  </ul>
+</ul>
+<span style="font-weight: bold;">Example Image:<br/>
+  <img src="attachment:trace_requirements.jpg"/></span><br/>]]></field>
+    <field id="previousStatus">open</field>
+    <field id="priority">25.0</field>
+    <field id="severity">normal</field>
+    <field id="status">open</field>
+    <field id="type">exercise</field>
+</work-item>

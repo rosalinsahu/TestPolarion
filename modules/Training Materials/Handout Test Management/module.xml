@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<module>
+    <field id="author">stroebelet</field>
+    <field id="created">2012-02-14 13:41:58.105 -0500</field>
+    <field id="headingSidebarFields">severity,status</field>
+    <field id="homePageContent" text-type="text/html"><![CDATA[<h1 id="polarion_wiki macro name=module-workitem;params=id=MP-1827"></h1><p id="polarion_template_0">
+  <br/>
+</p><h2 id="polarion_wiki macro name=module-workitem;params=id=MP-1828"></h2><div id="polarion_wiki macro name=toc"></div><h2 id="polarion_wiki macro name=module-workitem;params=id=MP-1830"></h2><div id="polarion_wiki macro name=module-workitem;params=id=MP-503"></div><h2 id="polarion_wiki macro name=module-workitem;params=id=MP-1835"></h2><div id="polarion_wiki macro name=module-workitem;params=id=MP-502"></div><h2 id="polarion_wiki macro name=module-workitem;params=id=MP-1836"></h2><div id="polarion_wiki macro name=module-workitem;params=id=MP-504"></div><h2 id="polarion_wiki macro name=module-workitem;params=id=MP-1837"></h2><div id="polarion_wiki macro name=module-workitem;params=id=MP-505"></div><h2 id="polarion_wiki macro name=module-workitem;params=id=MP-1838"></h2><div id="polarion_wiki macro name=module-workitem;params=id=MP-506"></div>]]></field>
+    <field id="renderingLayouts">
+        <list>
+            <struct>
+                <item id="label">Slide</item>
+                <item id="layouter">section</item>
+                <item id="properties">
+                    <list>
+                        <struct>
+                            <item id="key">fieldsAtStart</item>
+                            <item id="value">id</item>
+                        </struct>
+                        <struct>
+                            <item id="key">fieldsAtEnd</item>
+                        </struct>
+                        <struct>
+                            <item id="key">fieldsAtEndAsTable</item>
+                        </struct>
+                        <struct>
+                            <item id="key">hidden</item>
+                        </struct>
+                        <struct>
+                            <item id="key">noPageBreak</item>
+                        </struct>
+                        <struct>
+                            <item id="key">sidebarWorkItemFields</item>
+                            <item id="value">severity,status</item>
+                        </struct>
+                        <struct>
+                            <item id="key">typeNotInProject</item>
+                        </struct>
+                    </list>
+                </item>
+                <item id="type">slide</item>
+            </struct>
+        </list>
+    </field>
+    <field id="structureLinkRole">next</field>
+    <field id="usesOutlineNumbering">true</field>
+</module>

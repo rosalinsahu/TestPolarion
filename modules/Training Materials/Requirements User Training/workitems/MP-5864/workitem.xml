@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<work-item>
+    <field id="author">nanzp</field>
+    <field id="created">2016-08-29 04:27:28.173 -0400</field>
+    <field id="description" text-type="text/html"><![CDATA[Sometimes it happens, that new requirements will be defined in a variant of your product. It could be<br/>
+very useful, to merge the requirements in the master specification fto make them available in later created variants.<br/>
+ 
+<ul>
+  <li>Fill in a new requirement work item in<span style="font-style: italic;"> <span style="font-size: 10pt;line-height: 1.5;">Portal Specification Android</span></span> document and press “Save&quot;</li>
+</ul>
+After you pressed “Save”, you have to merge the requirement into the <span style="font-style: italic;">Portal Specification</span> Master<br/>
+ 
+<ul>
+  <li>Click in the branched document on “Operations/Compare with/Master Document”.</li>
+  <li>You are now in the Compare Document Dialog.</li>
+</ul>
+ <img src="workitemimg:2-screenshot-20160623-054407.png"/><br/>
+        <span style="font-size: 10pt;line-height: 1.5;">Click on “OK”.</span><br/>
+ <br/>
+ 
+<ul>
+  <li>We want to compare Work Items, so click on the “Work Items” button. In top middle off screen.</li>
+  <li>Now, to merge the work items from variant to master document, click on the “Show Merge Sidebar” in the top right of the screen and mark the work item which you have created in the branched document.</li>
+  <li>Now, click on the right arrow to merge the requirement from branch to master. You have three available options.</li>
+</ul>
+ 
+<ol>
+  <li>Insert Live Reference.</li>
+  <li>Insert Frozen Reference</li>
+  <li>Copy the Work Item.</li>
+</ol>
+ 
+<ul>
+  <li>Use one of the available options and merge the created requirement from branch to master document. Don&#39;t forget to press the &quot;Save&quot; button.</li>
+</ul>
+ <img src="workitemimg:3-screenshot-20160623-054407.png"/><br/>
+ 
+<ul>
+  <li>Verify, that your work items are merged into the master document.</li>
+  <li>Create another requirement in the branch or master document and try a different merge option</li>
+</ul>
+<br/>
+ <br/>]]></field>
+    <field id="linkedWorkItems">
+        <list>
+            <struct>
+                <item id="revision">69258</item>
+                <item id="role">branched_from</item>
+                <item id="workItem">MP-5767</item>
+            </struct>
+        </list>
+    </field>
+    <field id="previousStatus">open</field>
+    <field id="priority">25.0</field>
+    <field id="severity">normal</field>
+    <field id="status">open</field>
+    <field id="title">Merge Requirements from branch to master document</field>
+    <field id="type">exercise</field>
+</work-item>

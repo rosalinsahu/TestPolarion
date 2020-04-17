@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<work-item>
+    <field id="author">jaikumardaniel</field>
+    <field id="created">2016-08-29 08:33:39.177 -0400</field>
+    <field id="description" text-type="text/html"><![CDATA[Create your own label for your needs.<br/>
+ <br/>
+ <img src="workitemimg:1-screenshot-20160829-083339.png"/><br/>
+ <br/>
+ 
+<ul>
+  <li>Use standard labels like figure or table.</li>
+  <li>Create your own label for individual needs.</li>
+</ul>]]></field>
+    <field id="previousStatus">open</field>
+    <field id="printNotes" text-type="text/html" type="text/html">Thes Notes will be printed as part of the training materials</field>
+    <field id="priority">25.0</field>
+    <field id="severity">normal</field>
+    <field id="status">open</field>
+    <field id="title">Create your own label for your needs</field>
+    <field id="type">slide</field>
+</work-item>

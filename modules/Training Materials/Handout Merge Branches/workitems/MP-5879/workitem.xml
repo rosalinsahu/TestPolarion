@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<work-item>
+    <field id="author">jaikumardaniel</field>
+    <field id="created">2016-08-29 08:20:35.159 -0400</field>
+    <field id="description" text-type="text/html"><![CDATA[Merge work items.<br/>
+ <br/>
+ <img src="workitemimg:1-screenshot-20160829-082035.png"/><br/>
+ <br/>
+ 
+<ul>
+  <li>Push references.</li>
+  <li>Merge changes.</li>
+  <li>Replace references</li>
+</ul>]]></field>
+    <field id="previousStatus">open</field>
+    <field id="printNotes" text-type="text/html" type="text/html">Thes Notes will be printed as part of the training materials</field>
+    <field id="priority">25.0</field>
+    <field id="severity">normal</field>
+    <field id="status">open</field>
+    <field id="title">Merge work items</field>
+    <field id="type">slide</field>
+</work-item>

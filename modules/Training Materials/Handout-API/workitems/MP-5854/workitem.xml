@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<work-item>
+    <field id="author">daniel.morris</field>
+    <field id="created">2016-08-16 05:59:02.147 -0400</field>
+    <field id="description" text-type="text/html">&lt;img src="workitemimg:1-diagram_20160607-1427.02508_2.mxg.png" style="width: 754px;height: 392px;"/&gt;</field>
+    <field id="previousStatus">open</field>
+    <field id="printNotes" text-type="text/html" type="text/html">Thes Notes will be printed as part of the training materials</field>
+    <field id="priority">25.0</field>
+    <field id="severity">normal</field>
+    <field id="status">open</field>
+    <field id="title">3 Client and Server side scripts</field>
+    <field id="type">slide</field>
+</work-item>

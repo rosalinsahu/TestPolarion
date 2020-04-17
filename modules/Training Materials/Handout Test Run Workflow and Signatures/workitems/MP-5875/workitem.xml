@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<work-item>
+    <field id="author">jaikumardaniel</field>
+    <field id="created">2016-08-29 08:03:12.684 -0400</field>
+    <field id="description" text-type="text/html"><![CDATA[Electronic signature if required.<br/>
+ <br/>
+ 
+<ul>
+  <li>e-Signatures are required in some regulated environments. </li>
+  <li>For approval processes.</li>
+  <li>&quot;Second set of eyes&quot; can be ensured via e-Signatures.</li>
+  <li>e-Signatures as an optional part of a workflow.</li>
+</ul>]]></field>
+    <field id="previousStatus">open</field>
+    <field id="printNotes" text-type="text/html" type="text/html">Thes Notes will be printed as part of the training materials</field>
+    <field id="priority">25.0</field>
+    <field id="severity">normal</field>
+    <field id="status">open</field>
+    <field id="title">Electronic signature if required</field>
+    <field id="type">slide</field>
+</work-item>

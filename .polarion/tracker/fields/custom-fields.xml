@@ -1,2 +1,23 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<fields/>
+<?xml version="1.0" encoding="UTF-8"?>
+<fields>
+    <field id="PROglobalCEStech" multi="true" name="CES Technology" type="enum:PROcestech"/>
+    <field id="PROglobalCESdocnum" name="CES Document Number" type="string"/>
+    <field id="PROglobalCESapp" multi="true" name="CES Application" type="enum:PROcesapp"/>
+    <field id="PROglobalCESreqlvl" name="CES Requirement Level" type="enum:PROcesreqlevel"/>
+    <field id="PROglobalCESreqtype" multi="true" name="CES Requirement Type" type="enum:PROcesreqtype"/>
+    <field id="PROglobalGTA" multi="true" name="GTA Escalation" type="enum:PROcesgta"/>
+    <field id="PROglobalProdapp01" name="Product Application Lvl 3" type="enum:PROlevel3opt"/>
+    <field id="PROglobalProdapp04" name="Product Application Lvl 4" type="string"/>
+    <field id="PROglobalProdapp05" name="Product Application Lvl 5" type="string"/>
+    <field id="PROglobalProdapp06" name="Product Application Lvl 6" type="string"/>
+    <field id="PROlastdate" name="xDate of Last Update" type="date"/>
+    <field id="PROplandate" name="xDate of Planned Update" type="date"/>
+    <field id="PROblank" name=" " type="string"/>
+    <field id="PROplanstatus" name="Planning Status" type="enum:PROplanning"/>
+    <field id="PROprimeSME" name="Primary SME" type="string"/>
+    <field id="PROsecSME" name="Secondary SME" type="string"/>
+    <field id="PROchangereq" name="Change Request" type="text/html"/>
+    <field id="PROnotes" name="Notes" type="text/html"/>
+    <field id="PROmacrorefs" name="Macro References" type="text/html"/>
+    <field id="Test" name="Test" type="struct:FeatureSelection"/>
+</fields>
